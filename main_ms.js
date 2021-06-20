@@ -1,0 +1,1 @@
+//document.queryselector('.menu-btn').addEventListener('click',()=> document.queryselector('.main-menu').classList.toggle('show'));
